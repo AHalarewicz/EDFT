@@ -36,11 +36,14 @@ the functional for a real electron system.
 
 # Important files
 1. Research Report write-up
+
 https://github.com/AHalarewicz/EDFT/blob/master/ALHalarewicz_Goldwater_Research_Essay_EDFT.pdf
 
 
 2. Mathematica Notebook File
+
 https://github.com/AHalarewicz/EDFT/blob/master/EDFT.nb
 
 3. PDF of executed mathematica notebook file with anotated results
+
 https://github.com/AHalarewicz/EDFT/blob/master/EDFToutput.pdf
